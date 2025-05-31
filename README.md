@@ -2,7 +2,9 @@
 
 # Heart-attack-prediction model 
 
-The dataset used in this project comes from Kaggle. The goal is to detect patients who have previously experienced a heart attack.
+The dataset used in this project comes from Kaggle.(https://www.kaggle.com/datasets/fatemehmohammadinia/heart-attack-dataset-tarik-a-rashid/data)
+
+The goal is to detect patients who have previously experienced a heart attack.
 
 I started with an exploratory data analysis (EDA) to understand the data, visualize initial results, and remove outliers or noisy values.
 
