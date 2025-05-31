@@ -1,4 +1,3 @@
-#project summary 
 
 # Heart-attack-prediction model 
 
